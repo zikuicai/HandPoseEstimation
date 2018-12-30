@@ -1,5 +1,4 @@
 # Hand Pose Estimation
-zikui cai @ streamax as a computer vision intern from June 25,2018 - August 24,2018
 
 This repo contains 2 projects, keras version of [**Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields**](https://arxiv.org/abs/1611.08050) (openpose) and tensorflow version of [**Convolutional Pose Machines**](https://arxiv.org/abs/1602.00134) (cpm).
 
@@ -144,4 +143,4 @@ other methods to try: [Cascaded Pyramid Network for Multi-Person Pose Estimation
 # Acknowledgements
 These works were done when I was a research intern at **Streamax Technology Co., Ltd** during the summer 2018. I had a great time doing research here! Thank you Streamax!
 
-<a href="http://www.streamax.com/" width="300" height="200" rel="Streamax"><img href="http://www.streamax.com/" src="./docs/streamax.png" width="300" height="200" /></a>
+<a href="http://www.streamax.com/" rel="Streamax"><img src="https://00.rc.xiniu.com/g1/M00/16/EB/CgAGS1cjIfqABp9NAABPtHv9bZ8265.png" width="200" height="200" /></a>
