@@ -143,4 +143,4 @@ other methods to try: [Cascaded Pyramid Network for Multi-Person Pose Estimation
 # Acknowledgements
 These works were done when I was a research intern at **Streamax Technology Co., Ltd** during the summer 2018. I had a great time doing research here! Thank you Streamax!
 
-<a href="http://www.streamax.com/" rel="Streamax"><img src="https://00.rc.xiniu.com/g1/M00/16/EB/CgAGS1cjIfqABp9NAABPtHv9bZ8265.png" width="200" height="200" /></a>
+<a href="http://www.streamax.com/" rel="Streamax"><img src="https://00.rc.xiniu.com/g1/M00/16/EB/CgAGS1cjIfqABp9NAABPtHv9bZ8265.png" width="200" /></a>
